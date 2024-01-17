@@ -1,4 +1,4 @@
-# Signal and Image Processing Examples
+# Signal and Image Processing Fundamentals
 
 This repository contains a series of Jupyter Notebooks that provide practical insights into fundamental concepts in signal and image processing. The notebooks are designed to offer hands-on examples with Python code, making it easier to understand and apply these concepts in real-world scenarios.
 
